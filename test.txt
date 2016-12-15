@@ -1,0 +1,19 @@
+Сколько байт занимает тип данных int?
+4
+1
+2
+4
+8
+3
+Когда вышла Java 1.8?
+3
+18 марта 2014
+24 февраля 2013
+23 июня 1998
+1
+Метод класса Object?
+3
+int compareTo(Object o)
+boolean equals(Object o)
+void serialize()
+2
